@@ -15,10 +15,10 @@ Pod::Spec.new do |s|
  Language manager used to handle change app language without restart the app.
                        DESC
 
-  s.homepage         = 'https://github.com/Abedalkareem/LanguageManager-iOS'
+  s.homepage         = 'https://github.com/lienghongky/LanguageManager-iOS'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Abedalkareem' => 'abedalkareem.omreyh@yahoo.com' }
-  s.source           = { :git => 'https://github.com/Abedalkareem/LanguageManager-iOS.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/lienghongky/LanguageManager-iOS.git', :tag => s.version.to_s }
   s.swift_version = '5.0'
   s.social_media_url = 'https://twitter.com/AbedalkareemOmr'
 
